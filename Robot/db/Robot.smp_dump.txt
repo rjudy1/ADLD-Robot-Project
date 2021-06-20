@@ -1,0 +1,24 @@
+
+State Machine - |Robot|Controller:inst14|st
+Name st.state_bit_2 st.state_bit_1 st.state_bit_0 
+st.RESET 0 0 0 
+st.STRAIGHT 0 0 1 
+st.SPIN_INSIDE 1 0 0 
+st.TURN_TOWARDS 0 1 1 
+st.TURN_AWAY 1 0 1 
+
+State Machine - |Robot|Brancher:inst31|st
+Name st.state_bit_3 st.state_bit_2 st.state_bit_1 st.state_bit_0 
+st.RESET 0 0 0 0 
+st.TO_FRIEND 0 0 0 1 
+st.PICKUP 0 0 1 0 
+st.AT_FRIEND 0 1 0 0 
+st.LEAVE_HOUSE 0 0 1 1 
+st.ENTER_TUNNEL 0 1 0 1 
+st.TUNNEL 0 1 1 0 
+st.TUNNEL_EXIT 1 0 1 1 
+st.RIGHT_FOLLOW 1 1 0 1 
+st.STOP 1 0 0 0 
+st.WAIT_BUS 1 1 0 0 
+st.TO_CHURCH 1 0 0 1 
+st.CHURCH 1 0 1 0 

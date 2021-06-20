@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Robot">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|MotorController:inst11|mux4to1:inst10|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_4jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|MusicSynth:inst10|rest_compare:inst13|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_d9i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|Display_mux:inst26|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_7jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|MotorController:inst12|mux4to1:inst10|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_4jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|MusicSynth:inst10|mux4to1:inst9|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_4jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|Mux:inst23|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_9jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|lpm_constant0:inst41|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_1g6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|mux2to1_1bit:inst35|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_1jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|Display_Count:inst51|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_f7h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|MusicSynth:inst10|note_counter:inst12|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_81j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|MotorController:inst11|mux2to1_1bit:inst7|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_1jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|lpm_compare1:inst16|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_fqi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|lpm_constant1:inst42|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_7g6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|mux2to1_2bit:inst36|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_2jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|MotorController:inst11|mux2to1_1bit:inst8|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_1jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|MotorController:inst12|mux2to1_1bit:inst7|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_1jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|MusicSynth:inst10|duration_counter:inst14|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_esi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|mux2to1_1bit:inst21|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_1jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|mux2to1_2bit:inst37|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_2jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|MotorController:inst12|mux2to1_1bit:inst8|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_1jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|lpm_compare2:inst17|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_kqi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|lpm_constant2:inst43|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_ih6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|mux2to1_1bit:inst22|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_1jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|mux4to1:inst27|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_4jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|Mux:inst28|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_9jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|close_compare:inst15|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_kqi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|decode2to4:inst29|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_ome.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|mux2to1_1bit:inst32|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_1jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|Big_Counter:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_09h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|MusicSynth:inst10|freq_counter:inst8|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_gsi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|lpm_compare0:inst13|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_kqi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|lpm_constant3:inst44|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_7g6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|mux2to1_1bit:inst33|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_1jd.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|lpm_compare3:inst19|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_fqi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Robot|mux2to1_1bit:inst34|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_1jd.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
